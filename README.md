@@ -8,3 +8,5 @@ It implements
 4.Sockets
 5.Signals
 6.Proccesses (using fork)
+
+it is based on already existing apps so i don't take full credit 
